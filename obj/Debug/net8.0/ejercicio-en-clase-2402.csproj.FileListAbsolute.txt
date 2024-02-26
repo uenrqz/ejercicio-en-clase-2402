@@ -1,0 +1,15 @@
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/EJCLASE 2402/ejercicio-en-clase-2402/bin/Debug/net8.0/ejercicio-en-clase-2402
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/EJCLASE 2402/ejercicio-en-clase-2402/bin/Debug/net8.0/ejercicio-en-clase-2402.deps.json
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/EJCLASE 2402/ejercicio-en-clase-2402/bin/Debug/net8.0/ejercicio-en-clase-2402.runtimeconfig.json
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/EJCLASE 2402/ejercicio-en-clase-2402/bin/Debug/net8.0/ejercicio-en-clase-2402.dll
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/EJCLASE 2402/ejercicio-en-clase-2402/bin/Debug/net8.0/ejercicio-en-clase-2402.pdb
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/EJCLASE 2402/ejercicio-en-clase-2402/obj/Debug/net8.0/ejercicio-en-clase-2402.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/EJCLASE 2402/ejercicio-en-clase-2402/obj/Debug/net8.0/ejercicio-en-clase-2402.AssemblyInfoInputs.cache
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/EJCLASE 2402/ejercicio-en-clase-2402/obj/Debug/net8.0/ejercicio-en-clase-2402.AssemblyInfo.cs
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/EJCLASE 2402/ejercicio-en-clase-2402/obj/Debug/net8.0/ejercicio-en-clase-2402.csproj.CoreCompileInputs.cache
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/EJCLASE 2402/ejercicio-en-clase-2402/obj/Debug/net8.0/ejercicio-en-clase-2402.sourcelink.json
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/EJCLASE 2402/ejercicio-en-clase-2402/obj/Debug/net8.0/ejercicio-en-clase-2402.dll
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/EJCLASE 2402/ejercicio-en-clase-2402/obj/Debug/net8.0/refint/ejercicio-en-clase-2402.dll
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/EJCLASE 2402/ejercicio-en-clase-2402/obj/Debug/net8.0/ejercicio-en-clase-2402.pdb
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/EJCLASE 2402/ejercicio-en-clase-2402/obj/Debug/net8.0/ejercicio-en-clase-2402.genruntimeconfig.cache
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/EJCLASE 2402/ejercicio-en-clase-2402/obj/Debug/net8.0/ref/ejercicio-en-clase-2402.dll
